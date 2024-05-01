@@ -1,0 +1,15 @@
+{
+    "ip": "mc.dexland.org",
+    "port": 25565,
+    "nickname": "ezka",
+    "version": "1.12.2",
+    "number": 7,
+    "message": "!Что делать?, что делать? Вступайте в нашу читерскую тиму BGTeam, а делаю я так чтобы открыть глаза людям на дексленд! DS - mrleyyt",
+	"password":"123bot123",
+	"cooldown":"10000",
+	"proxy": {
+		"ip": "localhost",
+		"port": 9050,
+		"type": 5
+	}
+}
